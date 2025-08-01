@@ -13,4 +13,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![Kendriks GitHub Stats](https://github-readme-stats.vercel.app/api?username=kendriks&show_icons=true&theme=radical)
+![GitHub Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kendriks&theme=radical)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kendriks&theme=radical)
