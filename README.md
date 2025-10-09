@@ -4,6 +4,7 @@
 🎓 Estudante de Engenharia de Software  
 💻 Apaixonada por QA, Java e Desenvolvimento Web  
 📚 Atualmente estudando: Vue, Vuetify, Typescript, Java e Spring Boot
+💼 Estagiando como desenvolvedora Fullstack no NPI da UFC - Quixadá desde 08/2025
 
 ## 🚀 Tecnologias que uso
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
