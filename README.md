@@ -3,7 +3,7 @@
 
 🎓 Estudante de Engenharia de Software  
 💻 Apaixonada por QA, Java e Desenvolvimento Web  
-📚 Atualmente estudando: Vue, Vuetify, Typescript, Java e Spring Boot
+📚 Atualmente estudando: Vue, Vuetify, Typescript, Java e Spring Boot  
 💼 Estagiando como desenvolvedora Fullstack no NPI da UFC - Quixadá desde 08/2025
 
 ## 🚀 Tecnologias que uso
