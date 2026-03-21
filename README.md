@@ -1,5 +1,5 @@
 
-![descrição](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNwMWZhejh6YzVraXEwa2JibWh2c2sydnRrYTJyZTZjZGJmMnd4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif)
+![descrição](assets/Penguin.gif)
 
 # Olá! Eu sou a Kendriks 👋
 
