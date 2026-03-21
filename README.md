@@ -1,5 +1,6 @@
-
-![descrição](assets/Penguin.gif)
+<p align="center">
+  <img src="assets/Penguin.gif" alt="Gif do Pinguim" width="250"/>
+</p>
 
 # Olá! Eu sou a Kendriks 👋
 
